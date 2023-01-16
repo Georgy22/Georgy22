@@ -1,4 +1,5 @@
 Hello 👋
+
 My name is Nwaneri Georginia, I'm a newbie in tech and an aspiring frontend web developer currently enrolled on alx SE program.
 I am familiar with some basic concepts of Git, I love GitHub.
 
